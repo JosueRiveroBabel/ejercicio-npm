@@ -9,7 +9,6 @@
   "author": "Josue Rivero",
   "license": "ISC",
   "dependencies": {
-    "cytoscape": "^3.28.1",
-    "moment": "^2.30.1"
+    "cytoscape": "^3.28.1"
   }
 }
